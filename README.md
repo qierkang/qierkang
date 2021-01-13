@@ -17,14 +17,14 @@
 </p>
 
 -----
-
-<table border="1" cellpadding="0" cellspacing="0" align="center" >
-    <tr>
+<table border="0" cellpadding="0" cellspacing="0" >
+    <tbody align="center"><tr>
       <td><img alt="%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7" src="https://img.shields.io/static/v1?label=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&message=%e4%bd%9c%e8%80%85%e5%be%ae%e4%bf%a1&color=7BB32E&logo=wechat"/></td>
     </tr>
     <tr>
-      <td style="border:6px solid white;box-shadow:1px 1px 5px #333333"><img src="https://www.qekang.com/code.jpg" width="50%"/></td>
+      <td><img src="https://www.qekang.com/code.jpg" style="border:6px solid white;box-shadow:1px 1px 5px #333333" width="50%"/></td>
     </tr>
+    </tbody>
   </table>
 
 ## 💚 Stats

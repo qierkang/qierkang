@@ -17,7 +17,7 @@
 </p>
 
 <div style="text-align: center;">
-  <table border="1" cellpadding="3" cellspacing="0" style="width: 60%;margin:auto" >
+  <table border="1" cellpadding="0" cellspacing="0" style="width: 100%;margin:auto" >
     <tr>
       <td><img alt="%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7" src="https://img.shields.io/static/v1?label=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&message=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&color=7BB32E&logo=wechat"/></td>
     </tr>

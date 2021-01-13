@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://qekang.com"><img alt="%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2" src="https://img.shields.io/static/v1?label=%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2&message=Coding-%e4%bb%a3%e7%a0%81%e7%ac%94%e8%ae%b0&color=pink"/></a>
-<a href="https://gitee.com/qierkang"><img alt="CSDN" src="https://img.shields.io/static/v1?label=CSDN&message=CSDN&color=red&logo=CSDN"/></a>
+<a href="https://blog.csdn.net/qierkang"><img alt="CSDN" src="https://img.shields.io/static/v1?label=CSDN&message=CSDN&color=red&logo=CSDN"/></a>
 <a href="https://gitee.com/qierkang"><img alt="%e7%a0%81%e4%ba%91" src="https://img.shields.io/static/v1?label=%e7%a0%81%e4%ba%91&message=Gitee&color=orange&logo=%e7%a0%81%e4%ba%91"/></a>
 <a href="mailto:xyqierkang@163.com"><img alt="%e9%82%ae%e7%ae%b1" src="https://img.shields.io/static/v1?label=%e9%82%ae%e7%ae%b1&message=xyqierkang@163.com&color=3ABFE6&logo=Minutemailer"/></a>
 <img alt="%e5%be%ae%e4%bf%a1" src="https://img.shields.io/static/v1?label=%e5%be%ae%e4%bf%a1&message=qekang&color=7BB32E&logo=wechat"/>

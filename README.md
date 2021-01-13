@@ -4,7 +4,7 @@
 
 ## 😉 Status
 
-欢迎来到尔康的Home 他是一名计算机软件行业的博主,他一直在热衷于分享后台技术栈,服务器领域的技术知识。他主要关注安全架构方面的内容**[查看](https://qekang.com/about.html)**
+欢迎来到尔康的Home 他是一名计算机软件行业的博主,他一直在热衷于分享后台技术栈,服务器领域的技术知识。他主要关注安全架构方面的内容[查看](https://qekang.com/about.html)
 
 ## 🌐 Find Me
 
@@ -23,7 +23,7 @@
       <td><img alt="%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7" src="https://img.shields.io/static/v1?label=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&message=%e4%bd%9c%e8%80%85%e5%be%ae%e4%bf%a1&color=7BB32E&logo=wechat"/></td>
     </tr>
     <tr>
-      <td><img src="https://www.qekang.com/code.jpg" style="border:6px solid white;box-shadow:1px 1px 5px #333333" width="50%"/></td>
+      <td style="border:6px solid white;box-shadow:1px 1px 5px #333333"><img src="https://www.qekang.com/code.jpg" width="50%"/></td>
     </tr>
   </table>
 

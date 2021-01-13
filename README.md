@@ -16,16 +16,7 @@
 <img alt="%e5%be%ae%e4%bf%a1" src="https://img.shields.io/static/v1?label=%e5%be%ae%e4%bf%a1&message=qekang&color=7BB32E&logo=wechat"/>
 </p>
 
-<div style="
-    margin: auto;
-    position: absolute;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    margin:auto;
-">
-  <table border="1" cellpadding="0" cellspacing="0" >
+  <table border="1" cellpadding="0" cellspacing="0" align="center" >
     <tr>
       <td><img alt="%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7" src="https://img.shields.io/static/v1?label=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&message=%e8%96%af%e6%9d%a1%e5%bc%80%e6%ba%90&color=7BB32E&logo=wechat"/></td>
     </tr>
@@ -33,7 +24,6 @@
       <td><img src="https://www.qekang.com/statics/images/%e4%bd%9c%e8%80%85%e5%85%ac%e4%bc%97%e5%8f%b7.jpeg" width="150"/></td>
     </tr>
   </table>
-</div>
 
 ## 💚 Stats
 

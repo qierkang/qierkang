@@ -2,7 +2,7 @@
 
 [![coverage](https://img.shields.io/badge/文档创建&贡献者-尔康-blueviolet.svg)](https://www.qekang.com) [![coverage](https://img.shields.io/badge/blog-important.svg)](https://blog.csdn.net/qierkang) [![coverage](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![coverage](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-## 还没想好不过会很爆炸💥
+## 未来可期，会很爆炸💥
 
 <table border="0" cellpadding="0" cellspacing="0" >
   <tbody align="center">

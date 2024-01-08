@@ -56,8 +56,8 @@ HTML              10 mins        ██▓░░░░░░░░░░░░�
     <td>
       <a href="https://jrebel.qekang.com" target="_blank"><img alt="code jpg" src="./assets/code.jpg"
                                                                 style="border:6px solid white;box-shadow:1px 1px 5px #333333"
-                                                                width="30%" />
-        <img alt="%E5%85%8B%E6%9E%97%E9%A1%BF" src="./assets/kelindun.png" style="border:6px solid white;box-shadow:1px 1px 5px #333333" width="10%" /></a>
+                                                                width="30%" /></a>
+     <a href="https://jrebel.qekang.com" target="_blank"><img alt="%E5%85%8B%E6%9E%97%E9%A1%BF" src="./assets/kelindun.png" style="border:6px solid white;box-shadow:1px 1px 5px #333333" width="10%" /></a>
     </td>
   </tr>
   </tbody>

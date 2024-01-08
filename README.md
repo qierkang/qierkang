@@ -10,7 +10,7 @@ I'm `erkang`,  [bolg](https://qekang.com) 他是一名计算机软件行业的�
 除了编码之外，我还我喜欢：音乐、电影、专研技术、搭建&研究开源服务。我还养了一只小柯基🐶他叫克林顿。我目前生活在南京，我喜欢这座城市，这是我所偏爱的所谓文青慢活的生活节奏，这里有南京六朝古都，历史与现代交织，人文与自然融合，让人流连忘返。
 
 
-<img alt="Coding gif" src="./assets/developer.gif" width="7%" /> **我空余时间都花在:**
+<img alt="Coding gif" src="./assets/developer.gif" width="5%" /> **我空余时间都花在:**
 
 <!--START_SECTION:waka-->
 

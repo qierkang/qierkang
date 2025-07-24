@@ -15,7 +15,7 @@ I'm `erkang`,  [bolg](https://qekang.com) 他是一名计算机软件行业的�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 2024
+From: 2025
 
 Average Daily Time: 7 hrs 18 mins
 
